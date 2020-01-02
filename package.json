@@ -12,7 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/JsLadiesBR/tutorial-hamtaro.git"
   },
-  "keywords": ["jsladies", "tutorial", "hantaro", "javascript"],
+  "keywords": [
+    "jsladies",
+    "tutorial",
+    "hantaro",
+    "javascript"
+  ],
   "author": "Raysa Dutra e Ju Dantas",
   "license": "ISC",
   "bugs": {

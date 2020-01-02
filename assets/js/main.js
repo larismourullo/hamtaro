@@ -92,7 +92,7 @@ function create() {
   this.physics.add.overlap(
     hamtaro,
     comida,
-    function() {
+    function () {
       comida.x = randomNumber(50, window.innerWidth - 50);
       comida.y = randomNumber(50, window.innerHeight - 50);
 
